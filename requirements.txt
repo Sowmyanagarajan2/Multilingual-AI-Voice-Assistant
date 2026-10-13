@@ -1,0 +1,9 @@
+truststore
+streamlit
+SpeechRecognition
+deep-translator
+gTTS
+transformers<5
+torch
+langdetect
+audio-recorder-streamlit

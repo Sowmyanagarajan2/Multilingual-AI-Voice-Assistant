@@ -1,0 +1,15 @@
+🎤 User speaks
+      ↓
+Speech Recognition
+      ↓
+Text
+      ↓
+Translation
+      ↓
+LLM (Flan-T5)
+      ↓
+Text Response
+      ↓
+gTTS
+      ↓
+🔊 Voice Output
